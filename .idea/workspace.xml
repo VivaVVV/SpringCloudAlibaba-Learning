@@ -307,6 +307,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
@@ -402,12 +403,12 @@
       <workItem from="1593959274690" duration="1569000" />
       <workItem from="1593960878616" duration="363000" />
       <workItem from="1593961251527" duration="3623000" />
-      <workItem from="1594039302490" duration="5138000" />
+      <workItem from="1594039302490" duration="5606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10693000" />
+    <option name="totallyTimeSpent" value="11161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
