@@ -20,7 +20,8 @@ public class DemoController {
 
     @GetMapping("/test/{name}")
     public String test(@PathVariable(name = "name") String name){
-
         return feignService.demo(name);
     }
+
+
 }
