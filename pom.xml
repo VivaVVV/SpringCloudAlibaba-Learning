@@ -13,5 +13,13 @@
         <module>nacos-discovery-consumer-feign</module>
         <module>nacos-discovery-consumer-webflux</module>
         <module>nacos-discovery-gateway-server</module>
+        <module>nacos-discovery-gateway-server</module>
+        <module>nacos-config-client</module>
+        <module>nacos-config-client-load</module>
+        <module>sentinel-core-example</module>
+        <module>sentinel-fegin-provider</module>
+        <module>sentinel-fegin-consumer</module>
+        <module>sentinel-gateway</module>
+        <module>sentinel-gateway-service</module>
     </modules>
 </project>
