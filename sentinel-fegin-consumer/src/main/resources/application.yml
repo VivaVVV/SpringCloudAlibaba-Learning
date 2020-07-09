@@ -1,0 +1,9 @@
+server:
+  port: 18083
+spring:
+  application:
+    name: sentinel-fegin-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
